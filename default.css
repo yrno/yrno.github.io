@@ -19,4 +19,22 @@ footer {
 .Main {
 	margin:10%;
 }
-
+a {
+	color:#F34800;
+}
+a:hover {
+	color:#FFFFFF;
+	background-color:#202020;
+}
+table, th, td {
+	border:1px #FFFFFF solid;
+}
+table {
+	border-collapse: collapse;
+}
+.Table1 tr:nth-child(even) {
+	background-color:#FF0004
+}
+.Table1 th {
+	background-color:#704522;
+}
