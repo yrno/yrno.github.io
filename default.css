@@ -32,8 +32,8 @@ footer {
 .WarframeLogo {
 	filter:drop-shadow(3px 5px 2px #434343);
 		}
-.Main {
-	margin:10%;
+.Content {
+	margin:10px 10%;
 }
 a {
 	color:#537EA7;
