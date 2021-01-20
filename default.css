@@ -50,6 +50,10 @@ table {
 }
 .Table1 tr:nth-child(even) {
 	background-color:#494949;
+	
+}
+.Table1 tr:nth-child(odd) {
+	background-color:#505050;
 }
 .Table1 th {
 	background-color:#303030;
