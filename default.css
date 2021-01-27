@@ -16,14 +16,18 @@
 }
 /* Body */
 body {
-	background-color:#505050;
+	background-image: url(Resources/200-2003548_4k-hex.gif);
+	box-shadow: inset 0 0 0 1000px #30303090;
 	color:#FFFFFF;
 	margin:0%;
+	filter:drop-shadow(2px 2px 5px #000000);
+	background-size:cover;
+	background-attachment: fixed;
 		}
 footer {
 	background-color:#353533;
 	width:100%;
-	height:200px;
+	height:130px;
 	text-align:center;
 	color:#FFFFFF;
 	display:inline-block;
