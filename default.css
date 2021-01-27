@@ -62,3 +62,17 @@ table {
 .Table1 th {
 	background-color:#303030;
 }
+/* Custon Scrollbar */
+::-webkit-scrollbar {
+	width: 20px;
+}
+  ::-webkit-scrollbar-track {
+	background: #505050; 
+} 
+  ::-webkit-scrollbar-thumb {
+	background: #303030; 
+}
+  
+  ::-webkit-scrollbar-thumb:hover {
+	background: #555; 
+}
