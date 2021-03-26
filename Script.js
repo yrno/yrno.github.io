@@ -1,3 +1,11 @@
+
+funciton changeColor() {
+    var body = document.getElementByTagName("body")[0];
+    var colorSelect = document.getElementById("fcolor");
+    body.style.color = colorSelect.options[colorSelect.selectedIndex].value;
+}
+
+
 var header = document.getElementById("header")
 
 

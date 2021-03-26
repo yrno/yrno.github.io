@@ -62,6 +62,13 @@ table {
 .Table1 th {
 	background-color:#303030;
 }
+/* Form*/
+input {
+	width:70%;
+}
+
+
+
 /* Custon Scrollbar */
 ::-webkit-scrollbar {
 	width: 20px;
